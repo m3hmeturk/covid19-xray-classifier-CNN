@@ -1,6 +1,6 @@
 # CNN ile Akciğer Röntgeni Sınıflandırma (COVID-19)
 
-Bu proje, akciğer röntgen görüntülerini Konvolüsyonel Sinir Ağları (CNN) kullanarak analiz etmek ve görüntüleri 3 farklı sağlık durumuna göre sınıflandırmak amacıyla geliştirilmiş bir derin öğrenme modelidir.
+Bu proje, akciğer röntgen görüntülerini Konvolüsyonel Sinir Ağları (CNN) kullanarak analiz etmek ve görüntüleri 3 farklı sağlık durumuna göre sınıflandırmak amacıyla geliştirilmiş bir derin öğrenme modelidir. Bu projede CNN ile bir çok parametre denenmiş ve en iyi parametreler seçilmiştir. Örnek olarak derinlik katman sayısı birden fazla seçenek denenmiştir, eğitim test oranları farklı senaryolar denenmiştir gibi bir çok farklı parametre denenmiştir.
 
 ## 📌 Veri Seti
 Modelin eğitiminde Kaggle üzerinde bulunan [COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database) kullanılmıştır. 
