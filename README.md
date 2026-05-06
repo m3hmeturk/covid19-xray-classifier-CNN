@@ -23,7 +23,7 @@ Modelin dengeli ve verimli bir şekilde eğitilebilmesi için her bir sınıftan
 * Çoklu sınıflandırma (Multi-class classification) olduğu için çıkış katmanında 3 nöron ve Softmax aktivasyon fonksiyonu kullanılmıştır.
 
 ## 📊 Eğitim Sonuçları ve Başarım
-*(Not: Bu bölüme modelinin eğitim sonundaki test accuracy - doğruluk oranını, loss grafiğini veya karmaşıklık matrisini (confusion matrix) ekleyebilirsin. Örneğin: "Model test verisi üzerinde %90 doğruluk oranına ulaşmıştır.")*
+*(Not: Bu bölüme modelinin eğitim sonundaki test accuracy - doğruluk oranını, loss grafiğini veya karmaşıklık matrisini (confusion matrix) ekleyebilirsin. Örneğin: "Model test verisi üzerinde %94 doğruluk oranına ulaşmıştır.")*
 
 ## 🛠️ Nasıl Çalıştırılır?
 Projeyi kendi bilgisayarında denemek istersen aşağıdaki adımları izleyebilirsin:
